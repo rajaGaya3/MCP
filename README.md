@@ -1,0 +1,2 @@
+# MCP
+Exploring MCP server
